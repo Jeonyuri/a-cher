@@ -12,7 +12,7 @@ gaze_tracking 사용
 ko-sbert-multitack 사용
 학생 상담 챗봇 구현
 
-<img src="[이미지_파일_경로](https://github.com/Jeonyuri/a-cher/assets/127810051/d3fb8884-316c-4544-a572-92158d0bc8a0).gif" width="500" height="300">
+<img src="[이미지_파일_경로](https://github.com/Jeonyuri/a-cher/assets/127810051/d3fb8884-316c-4544-a572-92158d0bc8a0)" width="500" height="300">
 ![시연영상2 - Clipchamp로 제작](https://github.com/Jeonyuri/a-cher/assets/127810051/d3fb8884-316c-4544-a572-92158d0bc8a0)
 
 
