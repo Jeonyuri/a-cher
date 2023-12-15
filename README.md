@@ -9,9 +9,10 @@ gaze_tracking 사용
 
 프로그램2. 챗봇 상담을 통한 감정 관리
 -------------
-
 ko-sbert-multitack 사용
 학생 상담 챗봇 구현
+<img width="100%" src="![녹화_2023_12_16_00_45_19_20](https://github.com/Jeonyuri/a-cher/assets/127810051/4f6869a4-fcc3-4021-a033-b72c81ba9473)"/>
+
 
 프로그램3. 유전알고리즘을 통한 시간표 관리
 -------------
