@@ -12,7 +12,7 @@ gaze_tracking 사용
 ko-sbert-multitack 사용
 학생 상담 챗봇 구현
 
-<img width="100%" src="https://github.com/Jeonyuri/a-cher/assets/127810051/77098d60-6731-4fa2-a5b0-43458368c832"/>
+![녹화_2023_12_16_00_45_19_20](https://github.com/Jeonyuri/a-cher/assets/127810051/77098d60-6731-4fa2-a5b0-43458368c832)
 
 
 프로그램3. 유전알고리즘을 통한 시간표 관리
