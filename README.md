@@ -18,3 +18,13 @@ ko-sbert-multitack 사용
 
 유전알고리즘 사용
 성적별 맞춤 시간표 제공
+
+------------
+![image](https://github.com/Jeonyuri/a-cher/assets/127706144/70cb308f-061a-492a-9bfa-fb92f992ac0e)
+![image](https://github.com/Jeonyuri/a-cher/assets/127706144/a6117282-2d8f-4b94-8c20-b39d6178eebb)
+
+![image](https://github.com/Jeonyuri/a-cher/assets/127706144/b1370ca5-120e-4512-a676-b12a8e95bf58)
+
+![image](https://github.com/Jeonyuri/a-cher/assets/127706144/6985478e-fb03-4146-9a86-0de9c7154ac8)
+
+
