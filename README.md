@@ -15,6 +15,7 @@ ko-sbert-multitack 사용
 ![시연영상2 - Clipchamp로 제작](https://github.com/Jeonyuri/a-cher/assets/127810051/d3fb8884-316c-4544-a572-92158d0bc8a0)
 
 
+
 프로그램3. 유전알고리즘을 통한 시간표 관리
 -------------
 
